@@ -22,5 +22,5 @@ func BinarySearch(sVal int, list []int) (bool, int) {
 		}
 	}
 
-	return false, 0
+	return false, -1
 }
